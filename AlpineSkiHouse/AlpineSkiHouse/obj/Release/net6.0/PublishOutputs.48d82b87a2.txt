@@ -1,0 +1,7 @@
+C:\Users\Evan\Documents\Websites\Microsoft Cloud Challenge 2023\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.exe
+C:\Users\Evan\Documents\Websites\Microsoft Cloud Challenge 2023\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Evan\Documents\Websites\Microsoft Cloud Challenge 2023\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Evan\Documents\Websites\Microsoft Cloud Challenge 2023\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.dll
+C:\Users\Evan\Documents\Websites\Microsoft Cloud Challenge 2023\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.deps.json
+C:\Users\Evan\Documents\Websites\Microsoft Cloud Challenge 2023\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.runtimeconfig.json
+C:\Users\Evan\Documents\Websites\Microsoft Cloud Challenge 2023\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.pdb
