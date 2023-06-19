@@ -1,11 +1,6 @@
+using PizzaStore.Models;
+
 namespace PizzaStore.DB; 
-
- public record Pizza 
- {
-   public int Id {get; set;} 
-   public string ? Name { get; set; }
- }
-
  public class PizzaDB
  {
    private static List<Pizza> _pizzas = new List<Pizza>()
